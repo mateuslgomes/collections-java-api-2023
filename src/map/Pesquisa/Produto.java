@@ -1,7 +1,7 @@
-package main.java.map.Pesquisa;
+package map.Pesquisa;
 
 public class Produto {
-  //atributos
+  // atributos
   private String nome;
   private double preco;
   private int quantidade;

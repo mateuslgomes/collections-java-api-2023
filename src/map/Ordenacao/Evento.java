@@ -1,7 +1,7 @@
-package main.java.map.Ordenacao;
+package map.Ordenacao;
 
 public class Evento {
-  //atributos
+  // atributos
   private String nome;
   private String atracao;
 

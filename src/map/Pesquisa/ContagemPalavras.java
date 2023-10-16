@@ -1,10 +1,10 @@
-package main.java.map.Pesquisa;
+package map.Pesquisa;
 
 import java.util.HashMap;
 import java.util.Map;
 
 public class ContagemPalavras {
-  //atributo
+  // atributo
   private Map<String, Integer> palavras;
 
   public ContagemPalavras() {
